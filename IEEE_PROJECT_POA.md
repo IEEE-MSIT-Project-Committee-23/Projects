@@ -3,7 +3,7 @@
 <h1>Summary: </h1>
 About project - The site will be an online marketplace and helper for the students of our college. You can buy, sell and rent books, notes, drafters and anything that will be useful for students. There will be a description page where a brief description of the product along with pictures and videos will be there and interested buyers or renters can message the owner. In other part of this site, we are going to provide facility of assisting students make their assignments, projects and more. A student who needs help will upload the assignment with a brief description of assignment along with the price and time-limit for the assignment, Interested students can message the client and the client can choose the student they think is the best suit.
 
-<h1> Stage 0: Team building and Learning </h1>
+<h1> Stage 0: Team building and Learning Git and Github</h1>
 In this phase, we'll divide the team and everyone will be assigned with some tasks and we have to just get the idea and learn the basics of the skills needed for that.
 
 <h1> Stage 1: Planning and Design</h1>
