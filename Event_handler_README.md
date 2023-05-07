@@ -3,7 +3,7 @@
 
 # A collaborative Event handler for college societies.
 
-## Expected Timeline : (30th May - 30th Aug)
+## Expected Timeline : (7th May - 7th May)
 
 ## Summary  :
 A web-application that serves as a platform for college societies to post about their events. The application will include the ability for users to create, read, update, and delete content (CRUD). Users will need to create an account to upload content, and other students will be able to comment and ask questions on the posts. Overall, the goal is to provide a centralized platform for different college societies to promote their events and engage with their fellow students. 
